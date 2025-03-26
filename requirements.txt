@@ -1,0 +1,11 @@
+# Flask Web 框架，用于构建 RESTful API
+Flask==2.2.2
+
+# MySQL 数据库驱动，提供与 MySQL 连接的能力
+mysql-connector-python==8.0.33
+
+# Redis 驱动，支持与 Redis 通信（包括 Sorted Set 操作）
+redis==4.5.1
+
+# Azure Blob Storage 客户端，用于将日志同步到 Azure（如果使用同步模块）
+azure-storage-blob==12.14.1
